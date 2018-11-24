@@ -31,7 +31,7 @@ public class Nieszpory extends AppCompatActivity {
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
-        // mala zmiana
+        // mala zmiana 1
         getMenuInflater().inflate(R.menu.menu_nieszpory, menu);
         return true;
     }
